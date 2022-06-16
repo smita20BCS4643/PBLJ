@@ -1,7 +1,6 @@
 import java.util.*;
 
 import java.io.*;
- 
 
 public class EmployeeManager
 
@@ -294,9 +293,7 @@ public class EmployeeManager
 
           status="Displayed Successfully";
 
-          return status;
-
-          
+          return status;          
 
           }
 
@@ -307,7 +304,6 @@ public class EmployeeManager
                status="Failure";
 
                return status;
-
           }
 
     }
