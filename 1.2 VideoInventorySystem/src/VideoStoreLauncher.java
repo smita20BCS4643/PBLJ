@@ -1,5 +1,5 @@
+//Video Store Launcher code
 import java.util.Scanner;
-
 public class VideoStoreLauncher {
 	public static void main(String[] args)
 	{
