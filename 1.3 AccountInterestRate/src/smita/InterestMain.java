@@ -54,5 +54,7 @@ System.out.println("INTEREST GAINED IS: $ " + rd.calculateInterest(Ramount));
  + "RUN THE PROGRAM AGAIN");
  default:
  System.out.println("INVALID CHOICE!");
-} } }
+    } 
+  } 
+}
 
