@@ -1,5 +1,4 @@
 package smita;
-
 import java.util.Scanner;
 class SBaccount extends Account {
  double SBamount , SbInterestRate, interest;
@@ -27,5 +26,5 @@ class SBaccount extends Account {
  
  }
  return amount * SbInterestRate;
- 
-}}
+ }
+}
