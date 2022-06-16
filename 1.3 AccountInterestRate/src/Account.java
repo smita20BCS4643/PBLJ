@@ -1,5 +1,5 @@
-public abstract class Account {
-
+public abstract class Account 
+{
 int tenure;
 
     float principal;
@@ -54,8 +54,6 @@ int tenure;
 
     }
 
- 
-
     public float calculateMaturityAmount(float totalPrincipleDeposited,
 
                float maturityInterest) {
@@ -63,9 +61,7 @@ int tenure;
           return (totalPrincipleDeposited+maturityInterest);
 
     }
-
  
-
     public abstract float calculateInterest();
 
     public abstract float calculateAmountDeposited();
