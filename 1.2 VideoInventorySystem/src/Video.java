@@ -29,7 +29,7 @@ public class Video
     	  }
     	  else
     	  {
-    		  System.out.println("Rating is not available");
+    		System.out.println("Rating is not available");
     	      return 0;
     	  }
       }
