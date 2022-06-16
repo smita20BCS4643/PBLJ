@@ -1,6 +1,8 @@
-public class InterestMain {
+public class InterestMain 
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
 
           // TODO Auto-generated method stub
 
@@ -12,22 +14,20 @@ public class InterestMain {
 
         String gender = "male";
 
-   RDAccount b=new RDAccount(tenure,principal);    
+        RDAccount b=new RDAccount(tenure,principal);    
 
- b.setInterest(age, gender);
+        b.setInterest(age, gender);
+ 
+       float maturityInterest= b.calculateInterest();
 
-float maturityInterest= b.calculateInterest();
+       System.out.println(b.calculateInterest());
 
-    System.out.println(b.calculateInterest());
+       float totalPrincipleDeposited = b.calculateAmountDeposited();
 
-float totalPrincipleDeposited = b.calculateAmountDeposited();
+       System.out.println(totalPrincipleDeposited);
 
-    System.out.println(totalPrincipleDeposited);
-
-
-
-System.out.println(b.calculateMaturityAmount(totalPrincipleDeposited, maturityInterest));
+       System.out.println(b.calculateMaturityAmount(totalPrincipleDeposited, maturityInterest));
 
 
     }
-    }
+}
