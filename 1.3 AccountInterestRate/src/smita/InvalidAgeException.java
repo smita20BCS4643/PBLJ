@@ -1,5 +1,4 @@
 package smita;
-
-public class InvalidAgeException extends Exception {
-
+public class InvalidAgeException extends Exception 
+{
 }
