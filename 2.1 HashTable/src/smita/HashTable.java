@@ -1,4 +1,3 @@
-
 package smita;
 import java.util.*;
 public class HashTable 
@@ -17,7 +16,6 @@ public class HashTable
     	while(e.hasMoreElements())
     	{
     		System.out.println(e.nextElement());
-    	}
-    
+        }
     }
 }
