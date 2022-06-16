@@ -2,7 +2,6 @@ package smita;
 import java.util.*;
 public class Employee
   {
-    
     String empid[]={"1001","1002","1003","1004","1005","1006","1007"};
     String depName[]={"R&D","PM","Accountant","Front desk","Engineering","Manufacturing","PM"};
     String empName[]={"Ashish","Smita","Ana","Radhika","Dhanashare","Sayali","Rachana"};
@@ -24,8 +23,6 @@ public class Employee
         }
         return -1;
     }
-    
-    
     
     public static void main(String[] args)
     {
