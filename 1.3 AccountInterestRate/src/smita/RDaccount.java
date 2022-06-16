@@ -1,5 +1,4 @@
 package smita;
-
 import java.util.Scanner;
 public class RDaccount extends Account {
  double RDInterestRate;
