@@ -13,10 +13,11 @@ public class Main
     CSE.add("IS");
     CSE.add("AIML");
 
-	for (int i = 0; i < CSE.size(); i++) {
-        // Print all elements of List
+	for (int i = 0; i < CSE.size(); i++) 
+	{
+         // Print all elements of List
         System.out.println(CSE.get(i));
-    }
+       }
     
   }
 }
