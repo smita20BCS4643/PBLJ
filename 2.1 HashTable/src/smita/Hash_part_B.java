@@ -6,7 +6,7 @@ public class Hash_part_B
 public static void main(String[] args)
 {
 System.out.println("== PROGRAM FOR USAGE OF SETS OF COLLECTION INTERFACE ==");
-System.out.println("Ananya Singh  UID = 20BCS4585\n");
+System.out.println("Smita Shinde UID = 20BCS4643\n");
 Set<String> h1_HashSet = new HashSet<String>();
 h1_HashSet.add("HeLLo");
 h1_HashSet.add("Class!");
