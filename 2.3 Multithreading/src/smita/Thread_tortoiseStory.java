@@ -12,13 +12,9 @@ public class Thread_tortoiseStory
 
        System.out.println("Distance covered by HARE   = "+(a));  
 
-      }
-
- 
+      } 
 
   System.out.println("!!!!!!!!!!!!!!!HARE IS GOING TO SLEEP!!!!!!!!!!!!!!!!!!!!!");  //hare going to sleep
-
- 
 
   try
 
@@ -32,15 +28,10 @@ public class Thread_tortoiseStory
 
   {
 
-  
-
   }
-
  
 
   System.out.println("!!!!!!!!!!!!!!HARE AGAIN STARTED THE RACE !!!!!!!!!!!!!!!!");      //hare wakes up
-
- 
 
   for(int b=11;b<21;b++)
 
@@ -51,8 +42,6 @@ public class Thread_tortoiseStory
  }
 
 }
-
- 
 
 class Tortoise extends Thread
 
@@ -72,7 +61,6 @@ class Tortoise extends Thread
 
         System.out.println("!!!!!!!!!!!!!!!!TORTOISE HAS WON THE RACE !!!!!!!!!!!!!!!!!!!!!");   // tortoise won the race
 
- 
 
  }
 
