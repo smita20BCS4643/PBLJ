@@ -1,5 +1,6 @@
 package smita;
 
-public class MainIteration_simple {
+public class MainIteration_simple
+{
 
 }
