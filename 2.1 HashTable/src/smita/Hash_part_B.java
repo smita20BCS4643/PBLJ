@@ -1,5 +1,4 @@
 package smita;
-
 import java.util.*;
 public class Hash_part_B
 {
@@ -15,6 +14,3 @@ h1_HashSet.add("Working on Usage of Sets of Collection Interface");
 System.out.println("printing the collection of interface \n" +h1_HashSet);
 }
 }
-
-
-
