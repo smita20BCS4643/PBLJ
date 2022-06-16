@@ -1,5 +1,4 @@
 package smita;
-
-public class InvalidAmountException extends Exception {
-
+public class InvalidAmountException extends Exception 
+{
 }
