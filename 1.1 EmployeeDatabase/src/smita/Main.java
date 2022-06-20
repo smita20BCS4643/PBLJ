@@ -1,5 +1,5 @@
 package smita;
-
+//own package 
 import java.io.BufferedReader;
 
 import java.io.IOException;
