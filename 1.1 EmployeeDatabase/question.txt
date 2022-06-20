@@ -1,4 +1,4 @@
-You can get solution of this question 
+You can get solution of this question in src/smita folder 📂 
 
 Experiment -1.1
 Create an application to save the employee information using arrays having following fields:-
